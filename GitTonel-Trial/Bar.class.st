@@ -4,7 +4,7 @@ Class {
 	#category : #'GitTonel-Trial'
 }
 
-{ #category : #'initialization-actions' }
+{ #category : #accessing }
 Bar >> foo [
 	^#foo
 ]
